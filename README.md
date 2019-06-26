@@ -13,7 +13,7 @@ Decentralized Internet /  去中心化的互联网 。
 
 ## English Readme
 
-Six degrees, Project documentation.
+Six degrees Project documentation
 
 Six degrees, decentralized internet.
 
@@ -26,7 +26,7 @@ Six degrees, decentralized internet.
 
 ## 中文说明
 
-六度的项目文档。
+六度的项目文档
 
 六度，去中心化的互联网。
 
