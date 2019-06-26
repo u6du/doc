@@ -1,4 +1,10 @@
-# [6du](https://github.com/u6du/u6du) doc
+# 6DU / 六度
+
+Decentralized Internet /  去中心化的互联网 。
+
+---
+
+# 6du doc
 
 * [English Readme](#english-readme)
 * [中文说明](#中文说明)
