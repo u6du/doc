@@ -1,6 +1,8 @@
 # 6DU / 六度
 
-Decentralized Internet /  去中心化的互联网 。
+Decentralized Internet /  去中心化的互联网
+
+[Click here visit 6du code repository index](https://github.com/u6du/6du) / [点此浏览代码库清单](https://github.com/u6du/6du)
 
 ---
 
